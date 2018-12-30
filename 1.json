@@ -1,41 +1,9 @@
 {
-  "squadName": "Welcome to Celtics",
-  "homeTown": "Metro City",
-  "formed": 2016,
-  "secretBase": "Super tower",
-  "active": true,
-  "members": [
-    {
-      "name": "Molecule Man",
-      "age": 29,
-      "secretIdentity": "Dan Jukes",
-      "powers": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
-      ]
-    },
-    {
-      "name": "Madame Uppercut",
-      "age": 39,
-      "secretIdentity": "Jane Wilson",
-      "powers": [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
-    },
-    {
-      "name": "Eternal Flame",
-      "age": 1000000,
-      "secretIdentity": "Unknown",
-      "powers": [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
-      ]
-    }
-  ]
+ "原产地":"西伯利亚",
+"以前用途":"拉雪橇",
+"现在用途":"玩伴，雪橇比赛",
+"重量":"16~27Kg",
+"身高":"51~60公分",
+"特性":"不怕冷、不适合住公寓、+适合住户外、需大量运动",
+"寿命":"11~13年"
 }
